@@ -57,8 +57,11 @@
 
 
 
-## Crew
+## Members
 
-metterian | Column B | Column C
+Lee SeungJun | Kang Myunghoon | Koo Sunmin
 ---------|----------|---------
  ![](https://avatars.githubusercontent.com/u/15345023?v=4) | ![](assets/avatar2.png) | ![](assets/avatar3.jpeg)
+ PM | N/A | N/A
+
+
