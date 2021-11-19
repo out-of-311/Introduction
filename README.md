@@ -16,7 +16,7 @@
 
 > "Out of 311" is sub study group of [KU NMT](https://kunmt.org). NMT (Neural Machine Translation) is advanced artificial intelligence research. Many new intern researchers have difficulty with basic knowledge of NLP.
 
-> In order to solve this situation, a study group was created under the slogan **"What you understand should be able to explain."** We write and study all learning that occurs outside of lab 311.
+> This study group was created under the slogan **"What you understand should be able to explain."** We write and study all learning that occurs outside of lab 311.
 
 
 
