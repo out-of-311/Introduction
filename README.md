@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://pf.kakao.com/_FlDxgs"><img src="https://i.loli.net/2021/11/19/no4Yquwm7QtLZhD.png" alt="logo" width=200px></a>
+  <a><img src="assets/out of 311-logos.png" alt="logo" width=200px></a>
 </h1>
 
 <h4 align="center">KU Study Group</h4>
