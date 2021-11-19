@@ -14,9 +14,9 @@
 </p>
 
 
-> PEEP-Talk is an educational platform with a deep learning-based persona conversation system and a feedback function for correcting English grammar. In addition, unlike the existing persona conversation system, a Context Detector (CD) module that can automatically determine the flow of conversation and change the conversation topic in real time can be applied to give the user a feeling of talking to a real person.
+> Out of 311 is sub study group of [KU NMT](https://kunmt.org). NMT (Neural Machine Translation) is advanced artificial intelligence research. Many new intern researchers have difficulty with basic knowledge of NLP.
 
-> The source code is open so that you can download the source code and set it up with ease if you would like to have your own exclusive environment, and this platform is deployed by Kakao i Open Builder.
+> In order to solve this situation, a study group was created under the slogan "What you understand should be able to explain." We write and study all learning that occurs outside of lab 311.
 
 
 
