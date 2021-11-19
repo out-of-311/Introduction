@@ -38,7 +38,7 @@
 
 5. Do lot of mistakes
 
-   We love errors. We are young, so we have to face many difficulties.
+   We love errors. We are still young, so we have to face many difficulties.
 
 
 
